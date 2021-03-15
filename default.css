@@ -34,7 +34,7 @@ ul {
     display: block;
     text-decoration: none;
     color: #ced7db;
-    padding: 2vw;
+    padding: 2.1vw; /* Fixed */
 }
 
 li a:hover {
